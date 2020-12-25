@@ -1,2 +1,2 @@
 # dolos
-🥸 Python library to rotate user agents and proxies.
+🥸 Python requests library that rotates user agents and proxies to help scrape sites.
